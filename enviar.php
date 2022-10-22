@@ -2,7 +2,7 @@
 
 
 
-$key = "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";
+$key = "";
 $correo = "uwall@gmail.com";
 
 $fields_string = '{ "personalizations":[{"to":[{"email": "'.$correo.'"}]}],"from": {"email": "uwall-contact@gmail.com"},"subject":"Un usuario quiere contactarnós","content":[{"type":"text/plain","value":"and easy to do anywhere, even with cURL"}]}';
